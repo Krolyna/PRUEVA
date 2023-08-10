@@ -1,0 +1,5 @@
+
+1, Activo, General, 1, , Activo
+11, Activo circulante, General, 2, 1, Activo
+1101, Efectivo en Caja, General, 3, 11, Activo
+11011, Caja Chica, Detalle, 4, 1101, Activo
